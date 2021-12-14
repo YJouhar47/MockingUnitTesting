@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0c1EzrpkBHh7188XHqKU44HzrX6APc0CvWSlDz1L7FCmeB9QGcD4mPUIN/OZxa8Leww4dXuzk4fTkoh5dIwtgA==",
+  "dgSpecHash": "dk4ujiu8j1CpePskIvMul1BtFfRBQ2cmKPIg+4AC2E3oHVpMuQ8TfO0KSU9W5xOIYEcirCrJwjA5xQ6o3uh3kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\ConvertDataTimeTest\\ConvertDataTimeTest.csproj",
+  "projectFilePath": "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\ConvertDataTimeTest\\ConvertDataTimeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youss\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
@@ -71,7 +71,10 @@
     "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

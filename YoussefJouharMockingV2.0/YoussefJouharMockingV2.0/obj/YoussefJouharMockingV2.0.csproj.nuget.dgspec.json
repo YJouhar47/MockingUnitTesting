@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj": {}
+    "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj": {
+    "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
+        "projectUniqueName": "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
         "projectName": "YoussefJouharMockingV2.0",
-        "projectPath": "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
+        "projectPath": "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
         "packagesPath": "C:\\Users\\Youss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\obj\\",
+        "outputPath": "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Youss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

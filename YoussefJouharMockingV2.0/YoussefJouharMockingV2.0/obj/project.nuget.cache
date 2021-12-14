@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILse8JXIcy6t6J2tjkZb2PyNMU8IGbsAWY7evuHO/ZpVULJg6GIBqT1HNF0TEQFc51WP5fPwngGHhVDHOLJVZw==",
+  "dgSpecHash": "k6/VPCYnifVVAt/pRkObUgi0gv4hxQ6O1lVkTSBipQqWko1pG1sFiXPYCZjOtp9Gtqz7NzjXAezJpaWvPQKoEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youss\\OneDrive - AP Hogeschool Antwerpen\\Bureaublad\\Ap\\Graduaat\\Jaar2\\Software Testing\\1.UnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
+  "projectFilePath": "C:\\MockingYoussef\\MockingUnitTesting\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0\\YoussefJouharMockingV2.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youss\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -86,7 +86,11 @@
     "C:\\Users\\Youss\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Youss\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Youss\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.13\\microsoft.netcore.app.host.win-x86.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
