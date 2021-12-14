@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = YoussefJouharMockingV2._0
+build_property.ProjectDir = C:\Users\Youss\OneDrive - AP Hogeschool Antwerpen\Bureaublad\Ap\Graduaat\Jaar2\Software Testing\1.UnitTesting\YoussefJouharMockingV2.0\YoussefJouharMockingV2.0\
